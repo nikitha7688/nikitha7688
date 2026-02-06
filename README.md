@@ -1,11 +1,11 @@
 <!-- Animated Typing Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Hi+%F0%9F%91%8B+I'm+Nikitha;Frontend+Developer+%7C+React+%7C+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Hi+%F0%9F%91%8B+I'm+NIKITHA;Frontend+Developer+%7C+React+%7C+TypeScript" alt="Typing SVG" />
 </div>
 
 <!-- Animated Wave Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nikitha%20Dharani&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20Beautiful%20Web%20Experiences&descSize=18&descAlignY=55&descColor=fff" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=NIKITHA&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend+Developer+%7C+React+%7C+Next.js+%7C+React+Native&descSize=18&descAlignY=55&descColor=fff" width="100%" alt="header"/>
 </div>
 
 <!-- Profile Views & Followers -->
@@ -17,17 +17,22 @@
 
 <br/>
 
+---
+
 <!-- About Me Section -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="coding gif"/>
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="coding gif"/>
 
-🎓 **B.Sc. Computer Science** — Sri Venkateswara University, Tirupati  
-💼 **Junior Frontend Developer** @ The SOO Group  
-🌍 Based in **Chittoor, India**  
-🚀 Passionate about **React, TypeScript & Modern Web Dev**  
-🌱 Currently deepening my skills in **Next.js & Full-Stack Development**  
-⚡ Fun fact: I love turning designs into pixel-perfect, accessible interfaces!
+I am a passionate **Computer Science graduate** with a strong foundation in **Full Stack Development**, dedicated to creating scalable, interactive, and user-focused web applications.
+
+My journey began at **Error Makes Clever Academy (EMC)**, where I gained in-depth training in the **MERN stack** and built multiple real-world projects that enhanced my technical expertise.
+
+I then completed a **6-month internship at Moovicart UK** as a **Frontend Developer**, where I developed responsive and dynamic user interfaces using **React.js, Tailwind CSS, and Shadcn UI**, along with API integrations to connect front-end components with backend services. This experience strengthened my understanding of component-based architecture, design systems, and modern UI practices.
+
+Currently, I'm working at **Recruitory.io** as a **Junior Frontend Developer**, focusing on building scalable and efficient web and mobile applications using **React.js, Next.js, and React Native**. I also explore and integrate **AI tools** to enhance functionality, improve performance, and deliver intelligent user experiences.
+
+I'm passionate about **continuous learning** and staying updated with emerging technologies to create impactful digital solutions. I thrive in collaborative, fast-paced environments and aim to contribute to products that drive innovation and deliver real value to users.
 
 <br clear="both"/>
 
@@ -48,21 +53,58 @@
 <!-- Work Experience -->
 ## 💼 Work Experience
 
+<div align="center">
+<a href="#">
+<img src="https://img.shields.io/badge/🚀_Currently-Recruitory.io-6C63FF?style=for-the-badge" alt="current"/>
+</a>
+</div>
+
+<br/>
+
 <table>
 <tr>
-<td width="80" align="center"><img src="https://img.shields.io/badge/🏢-SOO_Group-6C63FF?style=flat-square" /></td>
 <td>
-<strong>Junior Frontend Developer — The SOO Group</strong><br/>
-<sub>Jul 2025 – Present · Chittoor, AP, India (On-site)</sub><br/>
-Building scalable, high-performance web interfaces using TypeScript and Tailwind CSS. Collaborating with cross-functional teams on responsive, accessible, component-driven designs.
+
+### <img src="https://img.shields.io/badge/-NOW-6C63FF?style=flat-square" /> Junior Frontend Developer — Recruitory.io
+<sub>📅 Jul 2025 – Present &nbsp;·&nbsp; 📍 On-site</sub>
+
+<br/>
+
+> Building scalable and efficient **web & mobile applications** using modern frontend technologies and integrating AI-powered features.
+
+| What I Do | Tech |
+|-----------|------|
+| 🖥️ Web Applications | `React.js` `Next.js` `TypeScript` |
+| 📱 Mobile Development | `React Native` |
+| 🎨 UI & Styling | `Tailwind CSS` `Shadcn UI` |
+| 🤖 AI Integration | AI tools for enhanced UX |
+| ⚡ Performance | Scalable architecture & optimization |
+
 </td>
 </tr>
+</table>
+
+<br/>
+
+<table>
 <tr>
-<td width="80" align="center"><img src="https://img.shields.io/badge/🌐-Moovicart-F75C7E?style=flat-square" /></td>
 <td>
-<strong>Frontend Web Developer (Intern) — Moovicart (UK)</strong><br/>
-<sub>Feb 2025 – Jul 2025 · Remote, United Kingdom</sub><br/>
-Built a real-time sports web application using React, TypeScript, and Tailwind CSS. Implemented responsive UI components, integrated live-data APIs, and worked with design systems.
+
+### <img src="https://img.shields.io/badge/-COMPLETED-F75C7E?style=flat-square" /> Frontend Web Developer (Intern) — Moovicart UK
+<sub>📅 Feb 2025 – Jul 2025 &nbsp;·&nbsp; 🌍 Remote, United Kingdom</sub>
+
+<br/>
+
+> Developed **responsive and dynamic user interfaces** for a real-time sports web application with live data integrations.
+
+| What I Did | Tech |
+|------------|------|
+| ⚛️ UI Components | `React.js` `TypeScript` |
+| 🎨 Design Systems | `Tailwind CSS` `Shadcn UI` |
+| 🔗 API Integration | REST APIs & live-data feeds |
+| 📐 Architecture | Component-based design patterns |
+| 📱 Responsive Design | Mobile-first approach |
+
 </td>
 </tr>
 </table>
@@ -125,54 +167,10 @@ npm run dev
 
 ---
 
-<!-- Education -->
-## 🎓 Education
-
-| Degree | Institution | Year |
-|--------|-----------|------|
-| 🎓 B.Sc. Computer Science | Sri Venkateswara University, Tirupati | 2022 – 2024 |
-| 📚 MPC (Intermediate) | Sri Chaitanya Junior College | 2019 – 2021 |
-| 💻 MERN Full Stack Training | Error Makes Clever Academy | 3 months |
-
----
-
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikitha7688&theme=radical&border=F75C7E&ring=F75C7E&fire=FF9900&currStreakLabel=F75C7E" alt="streak stats" width="49%"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=nikitha7688&show_icons=true&theme=radical&border_color=F75C7E&icon_color=F75C7E&rank_icon=github" alt="GitHub stats" width="49%"/>
-
-<br/>
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitha7688&layout=donut-vertical&theme=radical&border_color=F75C7E&langs_count=8" alt="Top languages" width="38%"/>
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikitha7688&theme=redical&area=true&hide_border=false&custom_title=Nikitha's%20Contribution%20Graph&border_color=F75C7E" width="98%" alt="activity graph"/>
-
-</div>
-
----
-
-<!-- Trophy Section -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikitha7688&theme=radical&no-frame=true&margin-w=10&column=7" alt="trophies" />
-</div>
-
----
-
 <!-- Interests -->
 ## 💡 Interests
 
-`🔓 Open Source Tooling` `♿ Web Accessibility` `🛠️ Developer Experience` `📖 Documentation` `🎨 UI/UX Design`
+`🔓 Open Source Tooling` `♿ Web Accessibility` `🛠️ Developer Experience` `📖 Documentation` `🎨 UI/UX Design` `🤖 AI Integration`
 
 ---
 
