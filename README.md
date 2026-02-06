@@ -5,14 +5,14 @@
 
 <br/>
 
-<!-- ✅ Typing Animation — Line 1: Name (wide width = no cutoff) -->
+<!-- Typing Animation — Line 1: Name -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1500&color=F857A6&center=true&vCenter=true&repeat=true&width=900&height=50&lines=Hi+%F0%9F%91%8B+I'm+NIKITHA" alt="Hi I'm NIKITHA"/>
   </a>
 </div>
 
-<!-- ✅ Typing Animation — Line 2: Role (wide width = no cutoff) -->
+<!-- Typing Animation — Line 2: Role -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1500&color=C0B8D6&center=true&vCenter=true&repeat=true&width=900&height=40&lines=Frontend+Developer+%7C+React+%7C+Next.js+%7C+TypeScript+%7C+React+Native" alt="Frontend Developer | React | Next.js | TypeScript | React Native"/>
@@ -34,7 +34,7 @@
 
 ---
 
-<!-- ═══════════════════ ABOUT (no image) ═══════════════════ -->
+<!-- ═══════════════════ ABOUT ═══════════════════ -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="30"/> &nbsp;About
 
 I am a passionate **Computer Science graduate** with a strong foundation in **Full Stack Development**, dedicated to creating scalable, interactive, and user-focused web applications.
@@ -72,56 +72,21 @@ I'm passionate about **continuous learning** and staying updated with emerging t
 <!-- ═══════════════════ WORK EXPERIENCE ═══════════════════ -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="28"/> &nbsp;Work Experience
 
-<!-- Current Role -->
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://img.shields.io/badge/NOW-6C63FF?style=for-the-badge" alt="current"/>
-    </td>
-    <td>
-      <h3>Junior Frontend Developer — Recruitory.io</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Jul_2025–Present-302b63?style=flat-square" alt="date"/>
-        &nbsp;
-        <img src="https://img.shields.io/badge/📍_On--site-24243e?style=flat-square" alt="location"/>
-      </p>
-      <p>Building scalable and efficient <strong>web & mobile applications</strong> using modern frontend technologies and integrating AI-powered features for intelligent user experiences.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Shadcn_UI-000?style=flat-square&logo=shadcnui&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
+### 🚀 Junior Frontend Developer — Recruitory.io
+<img src="https://img.shields.io/badge/Jul_2025–Present-302b63?style=flat-square" alt="date"/> &nbsp; <img src="https://img.shields.io/badge/📍_On--site-24243e?style=flat-square" alt="location"/>
 
-<!-- Past Role -->
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://img.shields.io/badge/DONE-F857A6?style=for-the-badge" alt="completed"/>
-    </td>
-    <td>
-      <h3>Frontend Web Developer (Intern) — Moovicart UK</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Feb_2025–Jul_2025-302b63?style=flat-square" alt="date"/>
-        &nbsp;
-        <img src="https://img.shields.io/badge/🌍_Remote,_UK-24243e?style=flat-square" alt="location"/>
-      </p>
-      <p>Built a <strong>real-time sports web application</strong> with responsive UI components, live-data API integrations, and design system implementation.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Shadcn_UI-000?style=flat-square&logo=shadcnui&logoColor=white"/>
-        <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
+Building scalable and efficient **web & mobile applications** using modern frontend technologies and integrating AI-powered features for intelligent user experiences.
+
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Shadcn_UI-000?style=flat-square&logo=shadcnui&logoColor=white"/>
+
+<br/>
+
+### 🌍 Frontend Web Developer (Intern) — Moovicart UK
+<img src="https://img.shields.io/badge/Feb_2025–Jul_2025-302b63?style=flat-square" alt="date"/> &nbsp; <img src="https://img.shields.io/badge/🌍_Remote,_UK-24243e?style=flat-square" alt="location"/>
+
+Built a **real-time sports web application** with responsive UI components, live-data API integrations, and design system implementation.
+
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Shadcn_UI-000?style=flat-square&logo=shadcnui&logoColor=white"/> <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 
 ---
 
@@ -129,35 +94,32 @@ I'm passionate about **continuous learning** and staying updated with emerging t
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28"/> &nbsp;Tech Stack
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="140"><strong>Languages</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html,js,ts,python&theme=dark" alt="languages" height="40"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Frontend</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="frontend" height="40"/>
-      &nbsp;
-      <img src="https://img.shields.io/badge/Shadcn_UI-000?style=flat-square&logo=shadcnui&logoColor=white" height="26"/>
-      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" height="26"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Backend & DB</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="backend" height="40"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Tools</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,jest,vscode&theme=dark" alt="tools" height="40"/>
-    </td>
-  </tr>
-</table>
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=html,js,ts&theme=dark" alt="languages"/>
+
+<br/><br/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="frontend"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Shadcn_UI-000?style=for-the-badge&logo=shadcnui&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="30"/>
+
+<br/><br/>
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="backend"/>
+
+<br/><br/>
+
+**Tools & DevOps**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,jest,vscode&theme=dark" alt="tools"/>
+
 </div>
 
 ---
@@ -191,8 +153,6 @@ npm run dev        # → http://localhost:3000
 
 <div align="center">
   <a href="https://github.com/nikitha7688/NexaChat"><img src="https://img.shields.io/badge/View_Repo-302b63?style=for-the-badge&logo=github&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://nikitha7688.github.io/Nikki-Portfolio/"><img src="https://img.shields.io/badge/Live_Demo-F857A6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </div>
 
 ---
