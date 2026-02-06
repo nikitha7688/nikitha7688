@@ -1,0 +1,107 @@
+<svg width="1440" height="320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f857a6">
+        <animate attributeName="stop-color" values="#f857a6;#ff5858;#ffc371;#f857a6" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" style="stop-color:#ff5858">
+        <animate attributeName="stop-color" values="#ff5858;#ffc371;#f857a6;#ff5858" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#ffc371">
+        <animate attributeName="stop-color" values="#ffc371;#f857a6;#ff5858;#ffc371" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="wave1Grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f857a6;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#ff5858;stop-opacity:0.3"/>
+    </linearGradient>
+    <linearGradient id="wave2Grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ffc371;stop-opacity:0.2"/>
+      <stop offset="100%" style="stop-color:#f857a6;stop-opacity:0.2"/>
+    </linearGradient>
+    <linearGradient id="wave3Grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff5858;stop-opacity:0.15"/>
+      <stop offset="100%" style="stop-color:#ffc371;stop-opacity:0.15"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="particleGlow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <rect width="1440" height="320" fill="url(#bg)"/>
+  
+  <circle cx="100" cy="50" r="1.5" fill="#f857a6" opacity="0.8" filter="url(#particleGlow)">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="50;42;50" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="300" cy="100" r="1" fill="#ffc371" opacity="0.6" filter="url(#particleGlow)">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="100;90;100" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="500" cy="30" r="2" fill="#ff5858" opacity="0.5" filter="url(#particleGlow)">
+    <animate attributeName="opacity" values="0.1;0.8;0.1" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="30;20;30" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="750" cy="70" r="1.2" fill="#f857a6" opacity="0.7" filter="url(#particleGlow)">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="70;60;70" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="950" cy="40" r="1.8" fill="#ffc371" opacity="0.6" filter="url(#particleGlow)">
+    <animate attributeName="opacity" values="0.2;0.9;0.2" dur="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="40;30;40" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1150" cy="90" r="1" fill="#ff5858" opacity="0.5" filter="url(#particleGlow)">
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2.8s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="90;82;90" dur="3.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1300" cy="55" r="1.5" fill="#f857a6" opacity="0.7" filter="url(#particleGlow)">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="3.2s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="55;45;55" dur="4.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="200" cy="140" r="1" fill="#ffc371" opacity="0.4" filter="url(#particleGlow)">
+    <animate attributeName="opacity" values="0.1;0.7;0.1" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="600" cy="120" r="1.3" fill="#ff5858" opacity="0.5" filter="url(#particleGlow)">
+    <animate attributeName="opacity" values="0.2;0.8;0.2" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1050" cy="130" r="0.8" fill="#f857a6" opacity="0.6" filter="url(#particleGlow)">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  
+  <path fill="url(#wave1Grad)">
+    <animate attributeName="d" values="M0,260 C180,230 360,280 540,250 C720,220 900,270 1080,240 C1260,210 1350,250 1440,230 L1440,320 L0,320 Z;M0,250 C180,270 360,220 540,260 C720,280 900,230 1080,260 C1260,240 1350,270 1440,250 L1440,320 L0,320 Z;M0,260 C180,230 360,280 540,250 C720,220 900,270 1080,240 C1260,210 1350,250 1440,230 L1440,320 L0,320 Z" dur="8s" repeatCount="indefinite"/>
+  </path>
+  <path fill="url(#wave2Grad)">
+    <animate attributeName="d" values="M0,275 C180,260 360,290 540,270 C720,250 900,285 1080,265 C1260,245 1350,275 1440,260 L1440,320 L0,320 Z;M0,265 C180,285 360,255 540,280 C720,295 900,260 1080,280 C1260,270 1350,290 1440,275 L1440,320 L0,320 Z;M0,275 C180,260 360,290 540,270 C720,250 900,285 1080,265 C1260,245 1350,275 1440,260 L1440,320 L0,320 Z" dur="6s" repeatCount="indefinite"/>
+  </path>
+  <path fill="url(#wave3Grad)">
+    <animate attributeName="d" values="M0,290 C180,278 360,302 540,288 C720,275 900,298 1080,285 C1260,272 1350,295 1440,282 L1440,320 L0,320 Z;M0,282 C180,298 360,275 540,295 C720,305 900,280 1080,295 C1260,288 1350,305 1440,290 L1440,320 L0,320 Z;M0,290 C180,278 360,302 540,288 C720,275 900,298 1080,285 C1260,272 1350,295 1440,282 L1440,320 L0,320 Z" dur="5s" repeatCount="indefinite"/>
+  </path>
+  
+  <text x="720" y="130" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="64" font-weight="800" fill="url(#textGrad)" filter="url(#glow)" letter-spacing="8">NIKITHA</text>
+  <text x="720" y="175" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" fill="#c0b8d6" letter-spacing="6" font-weight="300">FRONTEND DEVELOPER</text>
+  <line x1="620" y1="193" x2="820" y2="193" stroke="url(#textGrad)" stroke-width="2" stroke-linecap="round" opacity="0.6">
+    <animate attributeName="x1" values="660;620;660" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="780;820;780" dur="3s" repeatCount="indefinite"/>
+  </line>
+  <text x="720" y="222" text-anchor="middle" font-family="'Courier New',monospace" font-size="14" fill="#a89cc8" letter-spacing="3" opacity="0.8">
+    React · Next.js · TypeScript · React Native
+    <animate attributeName="opacity" values="0.5;0.9;0.5" dur="4s" repeatCount="indefinite"/>
+  </text>
+</svg>
