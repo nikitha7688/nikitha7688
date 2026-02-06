@@ -1,121 +1,195 @@
-# Hi, I'm Nikitha 👋
-
+<!-- Animated Typing Header -->
 <div align="center">
-  <!-- Animated header GIF (replace with your own if you prefer) -->
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="animated header" width="720" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Hi+%F0%9F%91%8B+I'm+Nikitha;Frontend+Developer+%7C+React+%7C+TypeScript" alt="Typing SVG" />
 </div>
 
+<!-- Animated Wave Banner -->
 <div align="center">
-  <!-- Badges -->
-  <img src="https://img.shields.io/badge/Location-Chittoor%2C%20India-1abc9c?style=for-the-badge&logo=map" alt="location" />
-  <img src="https://img.shields.io/badge/Email-nikithadharani23%40gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-  <a href="https://nikitha7688.github.io/Nikki-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-View-brightgreen?style=for-the-badge&logo=google-chrome" alt="portfolio" /></a>
-  <a href="https://www.linkedin.com/in/nikithad23/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="linkedin" /></a>
-  <img src="https://komarev.com/ghpvc/?username=nikitha7688&color=informational" alt="profile views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nikitha%20Dharani&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20Beautiful%20Web%20Experiences&descSize=18&descAlignY=55&descColor=fff" width="100%" alt="header"/>
 </div>
 
----
-
-## Resume
-A quick look at my journey as a developer — showcasing my education, technical skills, projects, and hands-on experience.  
-(Upload `resume.pdf` to this repo root to enable direct download.)  
-[Download Resume (PDF)](./resume.pdf)
-
----
-
-## Summary
-I’m Nikitha, a B.Sc. Computer Science graduate with a strong passion for web development. I have built a solid foundation in frontend and full-stack development through hands-on projects and continuous learning. I’m seeking opportunities where I can apply my skills, grow as a developer, and contribute meaningfully to innovative tech solutions.
-
----
-
-## Contact
-- Location: Chittoor, India  
-- Phone: +91 75698 83697  
-- Email: nikithadharani23@gmail.com  
-- Portfolio: https://nikitha7688.github.io/Nikki-Portfolio/  
-- LinkedIn: https://www.linkedin.com/in/nikithad23/
-
----
-
-## Work Experience
-
-### Junior Frontend Developer — The SOO Group  
-Jul 2025 – Present | Chittoor, Andhra Pradesh, India (On-site)  
-- Building scalable, high-performance web interfaces using TypeScript and Tailwind CSS.  
-- Collaborating with cross-functional teams to implement responsive, accessible designs.  
-- Focused on component-driven development, code quality, and performance optimizations.
-
-### Frontend Web Developer (Intern) — Moovicart (UK)  
-Feb 2025 – Jul 2025 | Remote, United Kingdom  
-- Built a real-time sports web application using React, TypeScript, and Tailwind CSS.  
-- Implemented responsive UI components, integrated live-data APIs, and worked with design systems.
-
----
-
-## Education
-- Bachelor of Science in Computer Science — Sri Venkateswara University, Tirupati (2022 – 2024)  
-- MPC (Intermediate) — Sri Chaitanya Junior College (2019 – 2021)
-
----
-
-## Training
-- MERN Full Stack Development — Error Makes Clever Academy (3 months)  
-  Hands-on projects using HTML, CSS, JavaScript, React, Node.js, Express, and MongoDB.
-
----
-
-## Technical Skills
-- Languages: HTML5, JavaScript, TypeScript, Python  
-- Front-end: React.js, Next.js, Tailwind CSS, Shadcn UI  
-- Mobile: React Native  
-- Back-end: Node.js, Express  
-- Databases: MongoDB  
-- Tools & DevOps: Git, GitHub Actions, Docker, GitHub Pages  
-- Testing: Jest, React Testing Library
-
----
-
-## Featured Projects
-
-### NexaChat — AI Chat (My project)
-[Repo → nikitha7688/NexaChat](https://github.com/nikitha7688/NexaChat)  
-[Live demo → add your demo URL here]
-
-- Short: NexaChat is an AI-powered chat application I built to showcase conversational UIs and pluggable AI backends. It offers a clean chat interface, message history, and simple configuration to switch AI providers.
-- Languages: JavaScript (97.9%), HTML (2%), CSS (0.1%)
-- Tech: React frontend, Node.js backend (proxy), environment-configured AI provider (OpenAI / Hugging Face / others)
-- Quick start:
-  1. git clone https://github.com/nikitha7688/NexaChat.git
-  2. cd NexaChat
-  3. npm install
-  4. Create .env with your API key:
-     - OPENAI_API_KEY=your_key OR HF_API_KEY=your_hf_key
-  5. npm run dev
-  6. Open http://localhost:3000 and start chatting
-- Notes: Do not commit API keys. Use platform secrets for deployments.
-- Screenshot / Demo GIF (optional): add a link to a screenshot/GIF in the repo (e.g., ./assets/nexachat-demo.gif)
-
----
-
-## Projects & Portfolio
-See my portfolio for full project details, demos, and source links:  
-https://nikitha7688.github.io/Nikki-Portfolio/
-
----
-
-## Open Source & Interests
-- Interests: open-source tooling, web accessibility, developer experience, and documentation.  
-- Contributions: (add repo names and short descriptions to list here)
-
----
-
-## GitHub Stats & Languages
+<!-- Profile Views & Followers -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikitha7688&show_icons=true&theme=radical" alt="GitHub stats" />
+  <a href="https://github.com/nikitha7688"><img src="https://komarev.com/ghpvc/?username=nikitha7688&style=for-the-badge&color=F75C7E&label=PROFILE+VIEWS" alt="profile views" /></a>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitha7688&layout=compact&theme=radical" alt="Top languages" />
+  <a href="https://github.com/nikitha7688?tab=followers"><img src="https://img.shields.io/github/followers/nikitha7688?style=for-the-badge&color=6C63FF&label=Followers" alt="followers" /></a>
+</div>
+
+<br/>
+
+<!-- About Me Section -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="coding gif"/>
+
+🎓 **B.Sc. Computer Science** — Sri Venkateswara University, Tirupati  
+💼 **Junior Frontend Developer** @ The SOO Group  
+🌍 Based in **Chittoor, India**  
+🚀 Passionate about **React, TypeScript & Modern Web Dev**  
+🌱 Currently deepening my skills in **Next.js & Full-Stack Development**  
+⚡ Fun fact: I love turning designs into pixel-perfect, accessible interfaces!
+
+<br clear="both"/>
+
+---
+
+<!-- Connect With Me -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Connect With Me
+
+<div align="center">
+  <a href="mailto:nikithadharani23@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/nikithad23/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://nikitha7688.github.io/Nikki-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://github.com/nikitha7688"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
 
 ---
 
-Thanks for visiting — feel free to say hi or explore NexaChat in my repos! 👋
+<!-- Work Experience -->
+## 💼 Work Experience
+
+<table>
+<tr>
+<td width="80" align="center"><img src="https://img.shields.io/badge/🏢-SOO_Group-6C63FF?style=flat-square" /></td>
+<td>
+<strong>Junior Frontend Developer — The SOO Group</strong><br/>
+<sub>Jul 2025 – Present · Chittoor, AP, India (On-site)</sub><br/>
+Building scalable, high-performance web interfaces using TypeScript and Tailwind CSS. Collaborating with cross-functional teams on responsive, accessible, component-driven designs.
+</td>
+</tr>
+<tr>
+<td width="80" align="center"><img src="https://img.shields.io/badge/🌐-Moovicart-F75C7E?style=flat-square" /></td>
+<td>
+<strong>Frontend Web Developer (Intern) — Moovicart (UK)</strong><br/>
+<sub>Feb 2025 – Jul 2025 · Remote, United Kingdom</sub><br/>
+Built a real-time sports web application using React, TypeScript, and Tailwind CSS. Implemented responsive UI components, integrated live-data APIs, and worked with design systems.
+</td>
+</tr>
+</table>
+
+---
+
+<!-- Tech Stack -->
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🌐 Languages
+<img src="https://skillicons.dev/icons?i=html,js,ts,python&theme=dark" alt="languages" />
+
+### ⚛️ Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="frontend" />
+&nbsp;
+<img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn"/>
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react native"/>
+
+### 🔧 Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="backend" />
+
+### ⚙️ Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,docker,jest&theme=dark" alt="tools" />
+&nbsp;
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="github actions"/>
+<img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="github pages"/>
+
+</div>
+
+---
+
+<!-- Featured Project -->
+## 🚀 Featured Project
+
+<div align="center">
+
+<a href="https://github.com/nikitha7688/NexaChat">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikitha7688&repo=NexaChat&theme=radical&border_color=F75C7E&border_radius=12" alt="NexaChat" />
+</a>
+
+</div>
+
+### 🤖 NexaChat — AI-Powered Chat Application
+
+> A conversational AI app with a clean chat interface, message history, and pluggable AI backends (OpenAI / Hugging Face).
+
+**Tech:** `React` `Node.js` `JavaScript` `REST APIs`
+
+```bash
+git clone https://github.com/nikitha7688/NexaChat.git
+cd NexaChat && npm install
+# Add your API key to .env
+npm run dev
+# Open http://localhost:3000
+```
+
+🔗 [View Repository](https://github.com/nikitha7688/NexaChat) · 🌐 [Live Demo](https://nikitha7688.github.io/Nikki-Portfolio/)
+
+---
+
+<!-- Education -->
+## 🎓 Education
+
+| Degree | Institution | Year |
+|--------|-----------|------|
+| 🎓 B.Sc. Computer Science | Sri Venkateswara University, Tirupati | 2022 – 2024 |
+| 📚 MPC (Intermediate) | Sri Chaitanya Junior College | 2019 – 2021 |
+| 💻 MERN Full Stack Training | Error Makes Clever Academy | 3 months |
+
+---
+
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikitha7688&theme=radical&border=F75C7E&ring=F75C7E&fire=FF9900&currStreakLabel=F75C7E" alt="streak stats" width="49%"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=nikitha7688&show_icons=true&theme=radical&border_color=F75C7E&icon_color=F75C7E&rank_icon=github" alt="GitHub stats" width="49%"/>
+
+<br/>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitha7688&layout=donut-vertical&theme=radical&border_color=F75C7E&langs_count=8" alt="Top languages" width="38%"/>
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikitha7688&theme=redical&area=true&hide_border=false&custom_title=Nikitha's%20Contribution%20Graph&border_color=F75C7E" width="98%" alt="activity graph"/>
+
+</div>
+
+---
+
+<!-- Trophy Section -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nikitha7688&theme=radical&no-frame=true&margin-w=10&column=7" alt="trophies" />
+</div>
+
+---
+
+<!-- Interests -->
+## 💡 Interests
+
+`🔓 Open Source Tooling` `♿ Web Accessibility` `🛠️ Developer Experience` `📖 Documentation` `🎨 UI/UX Design`
+
+---
+
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer"/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=2000&color=F75C7E&center=true&vCenter=true&repeat=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing+together!" alt="footer typing" />
+</div>
