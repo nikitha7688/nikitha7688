@@ -21,15 +21,6 @@
 
 <br/>
 
-<!-- Badges -->
-<div align="center">
-  <a href="https://github.com/nikitha7688"><img src="https://komarev.com/ghpvc/?username=nikitha7688&style=for-the-badge&color=F857A6&label=PROFILE+VIEWS" alt="views"/></a>
-  &nbsp;
-  <a href="https://github.com/nikitha7688?tab=followers"><img src="https://img.shields.io/github/followers/nikitha7688?style=for-the-badge&color=302b63&labelColor=0f0c29&label=Followers" alt="followers"/></a>
-  &nbsp;
-  <a href="https://github.com/nikitha7688?tab=repositories"><img src="https://img.shields.io/github/stars/nikitha7688?style=for-the-badge&color=ffc371&labelColor=0f0c29&label=Stars" alt="stars"/></a>
-</div>
-
 <br/>
 
 ---
